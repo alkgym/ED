@@ -4,7 +4,7 @@ public class SumaDosNumeros {
     public static void main(String[] args) {
 ///////        /// Crea un objeto Scanner para leer la entrada del usuario
         Scanner scanner = new Scanner(System.in);
-//////////
+//Error
         ///// Pide al usuario que introduzca el primer número
         System.out.print("Introduce el primer número: ");
         double num1 = scanner.nextDouble();
