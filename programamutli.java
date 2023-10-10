@@ -8,7 +8,7 @@ public class SumaDosNumeros {
         ///// Pide al usuario que introduzca el primer número
         System.out.print("Introduce el primer número: ");
         double num1 = scanner.nextDouble();
-
+//SIUUUU
         // Pide al usuario que introduzca el segundo número
         System.out.print("Introduce el segundo número: ");
         double num2 = scanner.nextDouble();
